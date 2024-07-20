@@ -8,3 +8,9 @@ Added:
 
 Fixed:
 - Sending messages to users.
+
+v0.1.0
+Added:
+- All data loading from JSON files.
+- Command settings: afto-stop.
+- Possible actions: on/off.
