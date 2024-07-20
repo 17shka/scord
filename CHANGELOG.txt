@@ -14,3 +14,11 @@ Added:
 - All data loading from JSON files.
 - Command settings: afto-stop.
 - Possible actions: on/off.
+
+v0.2.0
+Added:
+- Links to add bots.
+- Automatically create files if they do not exist.
+
+Alterations:
+- Code edits
