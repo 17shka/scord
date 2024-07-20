@@ -22,3 +22,12 @@ Added:
 
 Alterations:
 - Code edits
+
+v0.2.1
+Added:
+- Command 'view': Viewing the contents of the selected.
+- Command 'open': Opening the selected file.
+
+Alterations:
+- Command 'help': When you add a command, a description or possible actions appears.
+- Code edits
