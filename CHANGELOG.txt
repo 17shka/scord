@@ -1,2 +1,10 @@
 v0.0.0
 - Initial release.
+
+v0.0.1
+Added:
+- Command 'info': Number of running bots and users in the list, CPU and RAM consumption.
+- Displaying activity in the list.
+
+Fixed:
+- Sending messages to users.
