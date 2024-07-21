@@ -15,6 +15,16 @@ Added:
 - Command settings: afto-stop.
 - Possible actions: on/off.
 
+Snapshot v0.1.1
+Added:
+- Load all language files.
+- Command settings: language selection.
+- Possible actions: set.
+
+Not added:
+- Support for the selected language.
+- Added languages: English, Russian.
+
 v0.2.0
 Added:
 - Links to add bots.
@@ -30,4 +40,10 @@ Added:
 
 Alterations:
 - Command 'help': When you add a command, a description or possible actions appears.
+- Code edits
+
+v0.2.2
+Alterations:
+- Command 'info': Removed the 'Number of users in the list' line.
+- instead of "list_of_spam" in the code, it's "list-of-spam.json".
 - Code edits
