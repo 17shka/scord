@@ -47,3 +47,12 @@ Alterations:
 - Command 'info': Removed the 'Number of users in the list' line.
 - instead of "list_of_spam" in the code, it's "list-of-spam.json".
 - Code edits
+
+v0.2.3
+
+Alterations:
+- The 'view', 'open' commands do not require the path and file type to be specified
+- Code edits
+
+Fixed:
+- Bug fixes
